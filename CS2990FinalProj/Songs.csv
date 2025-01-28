@@ -1,0 +1,512 @@
+SongID,AlbumID,ArtistID,SongName,Runtime
+1,1,1,Do I Wanna Know?,272
+2,1,1,R U Mine?,201
+3,1,1,One For The Road,206
+4,1,1,Arabella,207
+5,1,1,I Want It All,185
+6,1,1,No. 1 Party Anthem,243
+7,1,1,Mad Sounds,215
+8,1,1,Fireside,181
+9,1,1,Why'd You Only Call Me When You're High?,161
+10,1,1,Snap Out Of It,193
+11,1,1,Knee Socks,257
+12,1,1,I Wanna Be Yours,183
+13,2,1,Brainstorm,170
+14,2,1,Teddy Picker,160
+15,2,1,D Is For Dangerous,134
+16,2,1,Balaclava,167
+17,2,1,Fluorescent Adolescent,173
+18,2,1,Only Ones Who Know,181
+19,2,1,Do Me A Favour,405
+20,2,1,This House Is A Circus,189
+21,2,1,"If You Were There, Beware",274
+22,2,1,The Bad Thing,143
+23,2,1,Old Yellow Bricks,187
+24,2,1,505,253
+25,3,2,Jenny Was A Friend Of Mine,243
+26,3,2,Mr. Brightside,222
+27,3,2,Smile Like You Mean It,234
+28,3,2,Somebody Told Me,197
+29,3,2,All These Things That I've Done,301
+30,3,2,"Andy, You're A Star",194
+31,3,2,On Top,258
+32,3,2,Change Your Mind,192
+33,3,2,Believe Me Natalie,305
+34,3,2,Midnight Snow,243
+35,3,2,Everything Will Be Alright,344
+36,3,2,Glamorous Indie Rock & Roll,254
+37,4,2,Sam's Town,246
+38,4,2,Enterlude,49
+39,4,2,When You Were Young,220
+40,4,2,Bling (Confession Of A King),248
+41,4,2,For Reasons Unknown,212
+42,4,2,Read My Mind,246
+43,4,2,Uncle Johnny,265
+44,4,2,Bones,227
+45,4,2,My List,248
+46,4,2,This River Is Wild,278
+47,4,2,Why Do I Keep Counting?,244
+48,4,2,Exitlude,146
+49,5,3,American Idiot,176
+50,5,3,Jesus of Suburbia,546
+51,5,3,Holiday/Boulevard of Broken Dreams,493
+52,5,3,Are We the Waiting/St. Jimmy,338
+53,5,3,Give Me Novacaine/She's a Rebel,326
+54,5,3,Extraordinary Girl/Letterbomb,460
+55,5,3,Wake Me up When September Ends,285
+56,5,3,Homecoming,558
+57,5,3,Whatsername,257
+58,6,3,Nice Guys Finish Last,168
+59,6,3,Hitchin A Ride,171
+60,6,3,The Grouch,132
+61,6,3,Redundant,196
+62,6,3,Scattered,182
+63,6,3,All The Time,130
+64,6,3,Worry Rock,147
+65,6,3,Platypus (I Hate You),141
+66,6,3,Uptight,184
+67,6,3,Last Ride In,227
+68,6,3,Jinx,132
+69,6,3,Haushinka,205
+70,6,3,Walking Alone,165
+71,6,3,Reject,125
+72,6,3,Take Back,69
+73,6,3,King For A Day,193
+74,6,3,Good Riddance (Time of Your Life),153
+75,6,3,Prosthetic Head,218
+76,7,4,Wild Heart,200
+77,7,4,Rollercoaster,183
+78,7,4,Shadow,231
+79,7,4,I Wanna Get Better,204
+80,7,4,Wake Me,163
+81,7,4,Reckless Love,181
+82,7,4,Take Me Away,150
+83,7,4,Like a River Runs,213
+84,7,4,You're Still a Mystery,264
+85,7,4,I'm Ready to Move On/ Wild Heart Reprise,251
+86,7,4,Who I Want You to Love,290
+87,8,4,Dream of Mickey Mantle,190
+88,8,4,Goodmorning,193
+89,8,4,Hate That You Know Me,185
+90,8,4,Don't Take The Money,215
+91,8,4,Everybody Lost Somebody,235
+92,8,4,All My Heroes,183
+93,8,4,Let's Get Married,186
+94,8,4,Goodybye,177
+95,8,4,I Miss Those Days,217
+96,8,4,Nothing is U,151
+97,8,4,I'm Ready To Move On/Mickey Mantle Reprise,263
+98,8,4,Foreign Girls,242
+99,9,5,"For a Pessimist, I'm Pretty Optimistic",228
+100,9,5,That's What You Get,220
+101,9,5,Hallelujah,203
+102,9,5,Misery Business,211
+103,9,5,When it Rains,215
+104,9,5,Let the Flames Begin,198
+105,9,5,Miracle,209
+106,9,5,crushcrushcrush,189
+107,9,5,We Are Broken,218
+108,9,5,Fences,198
+109,9,5,Born for This,238
+110,9,5,Misery Business-Acoustic Version,194
+111,10,5,Careful,230
+112,10,5,Ignorance,118
+113,10,5,Playing God,182
+114,10,5,Brick by Boring Brick,253
+115,10,5,Turn It Off,259
+116,10,5,The Only Exception,267
+117,10,5,Feeling Sorry,185
+118,10,5,Looking Up,209
+119,10,5,Where the Lines Overlap,198
+120,10,5,Misguided Ghosts,181
+121,10,5,All I Wanted,225
+122,11,6,As Good As New,204
+123,11,6,Voulez-Vous,309
+124,11,6,I Have A Dream,285
+125,11,6,Angeleyes,260
+126,11,6,The King Has Lost His Crown,212
+127,11,6,Does Your Mother Know,193
+128,11,6,If It Wasn't For The Nights,309
+129,11,6,Chiquitita,326
+130,11,6,Lovers (Live A Little Longer),210
+131,11,6,Kisses Of Fire,196
+132,11,6,Summer Night City,214
+133,11,6,Lovelight- Original Version,226
+134,11,6,Gimme! Gimme Gimme! (A Man After Midnight),292
+135,12,6,When I Kissed The Teacher,181
+136,12,6,Dancing Queen,230
+137,12,6,"My Love, My Life",231
+138,12,6,Dum Dum Diddle,173
+139,12,6,"Knowing Me, Knowing You",241
+140,12,6,"Money, Money, Money",186
+141,12,6,That's Me,195
+142,12,6,Why Did It Have To Be Me?,200
+143,12,6,Tiger,175
+144,12,6,Arrival,180
+145,12,6,Fernando,252
+146,12,6,Happy Hawaii,265
+147,13,7,Just Dance,241
+148,13,7,LoveGame,216
+149,13,7,Paperazzi,208
+150,13,7,Poker Face,237
+151,13,7,"Eh, Eh (Nothing Else I Can Say)",175
+152,13,7,"Beautiful, Dirty, Rich",172
+153,13,7,The Fame,222
+154,13,7,Money Honey,170
+155,13,7,Starstruck,217
+156,13,7,Boys Boys Boys,200
+157,13,7,Paper Gangsta,263
+158,13,7,Brown Eyes,243
+159,13,7,I Like It Rough,202
+160,13,7,Summerboy,253
+161,13,7,Disco Heaven,221
+162,14,7,Marry The Night,266
+163,14,7,Born This Way,260
+164,14,7,Government Hooker,254
+165,14,7,Judas,249
+166,14,7,Americano,246
+167,14,7,Hair,307
+168,14,7,Scheisse,225
+169,14,7,Bloody Mary,244
+170,14,7,Bad Kids,230
+171,14,7,Highway Unicorn (Road To Love),255
+172,14,7,Heavy Metal Lover,252
+173,14,7,Electric Chapel,253
+174,14,7,You And I,307
+175,14,7,The Edge Of Glory,320
+176,15,8,Your Love is My Drug,187
+177,15,8,TiK ToK,199
+178,15,8,Take It Off,215
+179,15,8,Kiss N Tell,207
+180,15,8,Stephen,212
+181,15,8,Blah Blah Blah (feat. 3OH!3),172
+182,15,8,Hungover,232
+183,15,8,Pary At A Rich Dude's House,175
+184,15,8,Backstabber,186
+185,15,8,Blind,197
+186,15,8,Dinosaur,175
+187,15,8,Dancing With Tears In My Eyes,209
+188,15,8,Boots & Boys,176
+189,15,8,Animal,237
+190,15,8,VIP,211
+191,15,8,c u next tuesday,232
+192,15,8,TiK ToK- Wolfedelic Club Mix,377
+193,15,8,TiK ToK- Fred Falke Club Remix,401
+194,16,8,Cannibal,194
+195,16,8,We R Who We R,204
+196,16,8,Sleazy,205
+197,16,8,Blow,219
+198,16,8,The Harold Song,238
+199,16,8,Crazy Beautiful Life,170
+200,16,8,Grow A Pear,208
+201,16,8,c u next tuesday,225
+202,16,8,Animal-Billboard Remix,255
+203,16,8,Your Love Is My Drug-Bimbo Jones Radio,187
+204,16,8,Take It Off-Billboard Radio Mix,218
+205,16,8,Animal-Dave Aude Remix,276
+206,17,9,I Forgot That You Existed,170
+207,17,9,Cruel Summer,178
+208,17,9,Lover,221
+209,17,9,The Man,190
+210,17,9,The Archer,211
+211,17,9,I Think He Knows,173
+212,17,9,Miss Americana & The Heartbreak Prince,234
+213,17,9,Paper Rings,222
+214,17,9,Cornelia Street,287
+215,17,9,Death By A Thousand Cuts,198
+216,17,9,London Boy,190
+217,17,9,Soon You'll Get Better,201
+218,17,9,False God,200
+219,17,9,You Need To Calm Down,171
+220,17,9,Afterglow,223
+221,17,9,ME!,193
+222,17,9,It's Nice To Have A Friend,150
+223,17,9,Daylight,293
+224,18,9,...Ready For It?,208
+225,18,9,End Game,244
+226,18,9,I Did Something Bad,238
+227,18,9,Don't Blame Me,236
+228,18,9,Delicate,232
+229,18,9,Look What You Made Me Do,211
+230,18,9,So It Goes...,227
+231,18,9,Gorgeous,209
+232,18,9,Getaway Car,233
+233,18,9,King Of My Heart,214
+234,18,9,Dancing With Our Hands Tied,211
+235,18,9,Dress,230
+236,18,9,This Is Why We Can't Have Nice Things,207
+237,18,9,Call It What You Want,203
+238,18,9,New Year's Day,235
+239,19,10,Nikes,314
+240,19,10,Ivy,249
+241,19,10,Pink + White,184
+242,19,10,Be Yourself,86
+243,19,10,Solo,257
+244,19,10,Skyline To,184
+245,19,10,Self Control,249
+246,19,10,Good Guy,66
+247,19,10,Nights,307
+248,19,10,Solo (Reprise),78
+249,19,10,Pretty Sweet,158
+250,19,10,Facebook Story,68
+251,19,10,Close To You,85
+252,19,10,White Ferrari,248
+253,19,10,Seigfried,334
+254,19,10,Godspeed,177
+255,19,10,Furura Free,564
+256,19,10,Start,45
+257,20,10,Thinkin Bout You,200
+258,20,10,Fertilizer,39
+259,20,10,Sierra Leone,148
+260,20,10,Sweet Life,262
+261,20,10,Not Just Money,59
+262,20,10,Super Rich Kids,304
+263,20,10,Pilot Jones,184
+264,20,10,Crack Rock,224
+265,20,10,Pyramids,592
+266,20,10,Lost,234
+267,20,10,White,76
+268,20,10,Monks,200
+269,20,10,Bad Religion,175
+270,20,10,Pink Matter,268
+271,20,10,Forrest Gump,194
+272,20,10,End,134
+273,20,11,Sihouette,373
+274,21,11,Close Your Eyes,305
+275,21,11,Morning in the Aves,242
+276,21,11,Growing/Dying ,212
+277,21,11,Words I Used,323
+278,21,11,Snowbank Blues,197
+279,21,11,Follow the Sound,251
+280,21,11,Slowing Down,320
+281,21,11,Know Your Name,292
+282,21,11,Viciously Lonely,333
+283,21,11,Watch Your Mouth,271
+284,22,11,Pool House,269
+285,22,11,Intuition,210
+286,22,11,Kilby Girl,282
+287,22,11,Dugout,290
+288,22,11,Davy Crochet,176
+289,22,11,Maple Syrup,243
+290,22,11,Olivia,192
+291,22,11,Sinking Ship,307
+292,22,12,Is This It,151
+293,23,12,The Modern Age,208
+294,23,12,Soma,153
+295,23,12,Barely Legal,234
+296,23,12,Someday,183
+297,23,12,"Alone, Together",188
+298,23,12,Last Nite,193
+299,23,12,Hard To Explain,224
+300,23,12,When It Started,175
+301,23,12,Trying Your Luck,202
+302,23,12,Take It Or Leave It,196
+303,23,12,The Adults Are Talking,309
+304,24,12,Selfless,222
+305,24,12,Brooklyn Bridge To Chorus,235
+306,24,12,Bad Decisions,293
+307,24,12,Eternal Summer,375
+308,24,12,At The Door,310
+309,24,12,Why Are Sundays So Depressing,275
+310,24,12,Not The Same Anymore,337
+311,24,12,Ode To The Mets,351
+312,24,13,Cracking,111
+313,25,13,Nina,200
+314,25,13,Ghostride,126
+315,25,13,Fall Down,173
+316,25,13,M.R.,217
+317,25,13,The Letter,125
+318,25,13,Part III,222
+319,25,13,And It Never Ends,173
+320,25,13,Faces,129
+321,25,13,Jinx,161
+322,25,13,Up & Down,203
+323,26,13,BNR,181
+324,26,13,Seeds,201
+325,26,13,L.A.,137
+326,26,13,Gone,212
+327,26,13,Retreat!,90
+328,26,13,Trophy,192
+329,26,13,Balloon,185
+330,26,13,Tunnel (all that you had),217
+331,26,13,Ice Melt,148
+332,26,14,Ocho Rios,153
+333,27,14,Valentina,154
+334,27,14,Toronto 2014 (with Mustafa),277
+335,27,14,Let Me Go,216
+336,27,14,Do You Like Me?,227
+337,27,14,Always,225
+338,27,14,Cool,244
+339,27,14,Disillusioned ,241
+340,27,14,Buyer's Remorse,152
+341,27,14,Shot My Baby,268
+342,27,14,Pain Is Inevitable,230
+343,27,14,Homiesexual,164
+344,27,14,Vince Van Gogh,164
+345,27,14,Superpowers,174
+346,27,14,Unstoppable,247
+347,27,14,Please Do Not Lean,240
+348,27,14,Always,222
+349,27,14,Valentina,296
+350,27,14,Get You,278
+351,28,14,Best Part,209
+352,28,14,Hold Me Down,231
+353,28,14,Neu Roses,181
+354,28,14,Loose,185
+355,28,14,We Find Love,254
+356,28,14,Blessed,241
+357,28,14,Take Me Away,226
+358,28,14,Transform,280
+359,28,14,Freudian,602
+360,28,15,Airbag,287
+361,29,15,Paranoid Android,387
+362,29,15,Subterranean Homesick Alien,267
+363,29,15,Exit Music (For A Film),267
+364,29,15,Let Down,299
+365,29,15,Karma Police,264
+366,29,15,Fitter Happier,117
+367,29,15,Electioneering,230
+368,29,15,Climbing Up the Walls,285
+369,29,15,No Surprises,229
+370,29,15,Lucky,258
+371,29,15,The Tourist,326
+372,29,15,15 Step,237
+373,30,15,Bodysnatchers,242
+374,30,15,Nude,255
+375,30,15,Weird Fishes/ Arpeggi,318
+376,30,15,All I Need,228
+377,30,15,Faust Arp,129
+378,30,15,Reckoner,290
+379,30,15,House Of Cards,328
+380,30,15,Jigsaw Falling Into Place,248
+381,30,15,Videotape,279
+382,30,16,Memory,172
+383,31,16,Forever,149
+384,31,16,Animals,173
+385,31,16,String,294
+386,31,16,Advice,157
+387,31,16,People,93
+388,31,16,Whale,81
+389,31,16,Trick,72
+390,31,16,Kute,74
+391,31,16,So,154
+392,31,16,Mary,197
+393,31,16,Change,124
+394,31,16,Clouds,146
+395,31,16,Adam,108
+396,31,16,Sarah,176
+397,31,16,16 Mirrors,87
+398,31,16,Remember,128
+399,32,16,The Same,151
+400,32,16,TV,75
+401,32,16,Gnaw,201
+402,32,16,Trash,168
+403,32,16,House,174
+404,32,16,Crab,213
+405,32,16,Go Away,57
+406,32,16,Let It Go,135
+407,32,16,Things to Do,157
+408,32,16,Time/Space,80
+409,32,16,Cross Country,69
+410,32,16,Race,223
+411,33,17,Getting Older,244
+412,33,17,I Didn't Change My Number,158
+413,33,17,Billie Bossa Nova,196
+414,33,17,my future,210
+415,33,17,Oxytocin,210
+416,33,17,GOLDWING,151
+417,33,17,Lost Cause,212
+418,33,17,Halley's Comet,234
+419,33,17,Not My Responsibility,227
+420,33,17,OverHeated,214
+421,33,17,Everybody Dies,206
+422,33,17,Your Power,245
+423,33,17,NDA,195
+424,33,17,Therefore I Am,173
+425,33,17,Happier Than Ever,298
+426,33,17,!!!!!!!,13
+427,34,17,bad guy,194
+428,34,17,xanny,243
+429,34,17,you should see me in a crown,180
+430,34,17,all the good girls go to hell,168
+431,34,17,wish you were gay,221
+432,34,17,when the party's over,136
+433,34,17,8,173
+434,34,17,my strange additction ,179
+435,34,17,bury a friend,193
+436,34,17,ilomilo,156
+437,34,17,listen before i go,242
+438,34,17,i love you,291
+439,34,17,goodbye,119
+440,34,18,Atomic Vomit,90
+441,35,18,When I,60
+442,35,18,Thats No Fun,161
+443,35,18,Cocky Girl,53
+444,35,18,Uuuu,90
+445,35,18,Jars of It,144
+446,35,18,Bars. 16,46
+447,35,18,Infrunami,178
+448,35,18,Hummer,71
+449,35,18,4real,144
+450,35,18,I Think I Should,99
+451,35,18,Daze,72
+452,35,18,Out of Me Head,141
+453,35,18,Donchano,98
+454,35,18,The Song,66
+455,35,18,Static,156
+456,36,18,Helmet,201
+457,36,18,Mercury,295
+458,36,18,Buttons,184
+459,36,18,Bad Habit,232
+460,36,18,2Gether (Enterlude),50
+461,36,18,Cody Freestyle,240
+462,36,18,Amber,173
+463,36,18,Sunshine,293
+464,36,18,Give You the World,273
+465,36,19,Salad Days,145
+466,37,19,Blue Boy,126
+467,37,19,Brother,212
+468,37,19,Let Her Go,182
+469,37,19, Goodbye Weekend,179
+470,37,19,Let My Baby Stay,248
+471,37,19,Passing Out Pieces,167
+472,37,19,Treat Her Better,229
+473,37,19,Chamber Of Reflection,231
+474,37,19,Go Easy,204
+475,37,19,Jonny's Odyssey,158
+476,37,19,Cooking Up Something Good,161
+477,38,19,Dreaming,147
+478,38,19,Freaking Out the Neighborhood,173
+479,38,19,Annie,190
+480,38,19,Ode to Viceroy,233
+481,38,19,Robson Girl,176
+482,38,19,The Stars Keep On Calling My Name,142
+483,38,19,My Kind of Woman,190
+484,38,19,Boe Zaah,101
+485,38,19,Sherrill,149
+486,38,19,Still Together,219
+487,38,20,Circles,170
+488,39,20,Complicated,232
+489,39,20,Blue World,209
+490,39,20,Good News,342
+491,39,20,I Can See,220
+492,39,20,Everybody,256
+493,39,20,Woods,286
+494,39,20,Hand Me Downs,298
+495,39,20,That's On Me,217
+496,39,20,Hands,199
+497,39,20,Surf,330
+498,39,20,Once A Day,220
+499,39,20,Come Back to Earth,161
+500,40,20,Hurt Feelings,245
+501,40,20,What's the Use?,288
+502,40,20,Perfecto,215
+503,40,20,Self Care,345
+504,40,20,Wings,250
+505,40,20,Ladders,287
+506,40,20,Small Worlds,271
+507,40,20,Conversation Pt. 1,210
+508,40,20,Dunno,237
+509,40,20,Jet Fuel,345
+510,40,20,2009,347
+511,40,20,So It Goes,312
